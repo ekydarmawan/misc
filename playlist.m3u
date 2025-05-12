@@ -1,7 +1,3 @@
-# EPG (Electronic Program Guide)
-# https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml.gz
-# https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz
-
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://www.useetv.com/assets/images/logo.png",Mozaik
 rtp://@239.1.3.202:1234
 #EXTINF:-1 group-title="Backup" tvg-logo="https://www.useetv.com/assets/images/logo.png",Mozaik
